@@ -1,0 +1,26 @@
+entity_id,entity_name,segment,priority_score,avg_risk_score,avg_quality_score,estimated_impact
+PRO004,Product opportunity 4,Core,110.19,53.4,79.6,987559
+PRO028,Product opportunity 28,Core,92.42,54.3,80.7,736288
+PRO011,Product opportunity 11,Strategic,92.07,48.0,80.1,783466
+PRO001,Product opportunity 1,Core,91.80,52.4,79.8,739403
+PRO027,Product opportunity 27,Growth,91.33,48.9,81.0,768986
+PRO021,Product opportunity 21,Watch,89.67,53.8,79.7,697005
+PRO022,Product opportunity 22,Strategic,87.35,51.6,80.1,685638
+PRO012,Product opportunity 12,Growth,87.12,53.8,79.4,660105
+PRO031,Product opportunity 31,Growth,85.55,55.4,80.4,629257
+PRO009,Product opportunity 9,Strategic,82.74,52.2,81.1,620308
+PRO002,Product opportunity 2,Core,82.39,50.3,80.7,630517
+PRO023,Product opportunity 23,Growth,82.01,50.6,80.1,619464
+PRO024,Product opportunity 24,Watch,80.50,54.0,81.2,574075
+PRO017,Product opportunity 17,Strategic,80.21,50.2,81.4,604236
+PRO034,Product opportunity 34,Growth,79.58,50.8,79.6,581755
+PRO015,Product opportunity 15,Strategic,78.49,47.6,80.7,598741
+PRO016,Product opportunity 16,Growth,76.74,49.6,79.4,551370
+PRO014,Product opportunity 14,Growth,76.33,50.5,79.0,536291
+PRO003,Product opportunity 3,Watch,75.83,54.5,79.3,495757
+PRO007,Product opportunity 7,Core,75.40,51.6,80.7,521498
+PRO008,Product opportunity 8,Watch,74.85,53.6,78.7,487288
+PRO018,Product opportunity 18,Strategic,74.08,51.9,81.9,505190
+PRO006,Product opportunity 6,Strategic,73.79,51.7,78.8,489629
+PRO029,Product opportunity 29,Growth,73.22,55.3,80.2,456188
+PRO035,Product opportunity 35,Core,72.86,49.1,79.9,503779
