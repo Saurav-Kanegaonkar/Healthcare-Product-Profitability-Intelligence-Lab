@@ -1,0 +1,73 @@
+epic_id,product_id,jira_key,prd_section,request,agile_status,effort_points,launch_cost,expected_revenue_lift,risk_reduction_points,dependency,release_quarter,confluence_status
+EPIC-001,HPA-013,HPA-2896,Pricing impact,users want fewer handoffs between analytics and operational queues,UAT,13,237752.12,1195546.22,14,Data engineering,2026 Q3,Approved
+EPIC-002,HPA-004,HPA-2961,Pricing impact,users spend too long interpreting exception and next-action screens,Ready for grooming,13,425526.47,1644657.22,13,Design research,2026 Q3,Needs source update
+EPIC-003,HPA-007,HPA-3358,Requirements,users want fewer handoffs between analytics and operational queues,Blocked,13,397840.47,913927.5,18,Client implementation,2027 Q1,Needs source update
+EPIC-004,HPA-005,HPA-3120,Release criteria,users spend too long interpreting exception and next-action screens,UAT,21,408803.54,1153139.45,14,Marketing enablement,2026 Q3,Draft
+EPIC-005,HPA-005,HPA-3841,Release criteria,users want fewer handoffs between analytics and operational queues,Blocked,13,312839.33,476094.29,17,Marketing enablement,2026 Q4,Approved
+EPIC-006,HPA-007,HPA-3865,Problem statement,"stakeholders asked for clearer numerator, denominator, and data freshness notes",PRD drafted,8,230588.83,470295.46,12,Client implementation,2026 Q3,Needs source update
+EPIC-007,HPA-016,HPA-2875,Compliance review,buyers need tier and usage language that maps to budgets,In development,13,200652.75,953111.13,24,Marketing enablement,2026 Q4,Approved
+EPIC-008,HPA-004,HPA-2956,Problem statement,buyers need tier and usage language that maps to budgets,UAT,13,207719.83,838165.62,11,Security review,2027 Q1,Approved
+EPIC-009,HPA-002,HPA-3645,Compliance review,users spend too long interpreting exception and next-action screens,PRD drafted,13,415589.51,1952975.37,20,Design research,2027 Q1,Draft
+EPIC-010,HPA-004,HPA-2765,Requirements,prospects care about time to first validated insight,Discovery,5,95733.59,392300.51,24,Marketing enablement,2026 Q4,Draft
+EPIC-011,HPA-013,HPA-2598,Requirements,users want fewer handoffs between analytics and operational queues,UAT,13,388126.79,1332027.75,17,Design research,2026 Q3,Ready for review
+EPIC-012,HPA-016,HPA-2705,Commercial enablement,buyers need tier and usage language that maps to budgets,Discovery,5,95992.16,160368.75,21,Security review,2027 Q1,Ready for review
+EPIC-013,HPA-010,HPA-2513,Release criteria,users spend too long interpreting exception and next-action screens,In development,5,143682.42,688021.23,20,Design research,2026 Q4,Draft
+EPIC-014,HPA-013,HPA-2827,Release criteria,"stakeholders asked for clearer numerator, denominator, and data freshness notes",In development,8,162598.62,728021.93,13,API contract,2026 Q3,Draft
+EPIC-015,HPA-007,HPA-3771,Problem statement,"stakeholders asked for clearer numerator, denominator, and data freshness notes",In development,8,200932.45,464853.0,20,Design research,2026 Q3,Draft
+EPIC-016,HPA-003,HPA-3867,Problem statement,marketing needs proof points against point solutions and internal builds,In development,13,290448.49,552143.8,29,Data engineering,2027 Q1,Needs source update
+EPIC-017,HPA-012,HPA-3720,Metric definition,users want fewer handoffs between analytics and operational queues,Ready for grooming,5,78475.28,374321.48,3,Security review,2026 Q4,Ready for review
+EPIC-018,HPA-011,HPA-3703,Compliance review,users spend too long interpreting exception and next-action screens,PRD drafted,13,217177.74,774282.71,12,API contract,2026 Q4,Ready for review
+EPIC-019,HPA-002,HPA-3711,Compliance review,marketing needs proof points against point solutions and internal builds,UAT,8,167721.93,888728.32,14,Client implementation,2027 Q1,Draft
+EPIC-020,HPA-001,HPA-2624,Requirements,users spend too long interpreting exception and next-action screens,PRD drafted,8,128183.1,287549.9,25,Marketing enablement,2026 Q4,Approved
+EPIC-021,HPA-007,HPA-2429,Pricing impact,"buyers want visible privacy, audit, and access controls before expansion",Discovery,3,76178.07,156381.65,25,Marketing enablement,2026 Q3,Ready for review
+EPIC-022,HPA-003,HPA-3667,Requirements,users want fewer handoffs between analytics and operational queues,Blocked,3,57752.39,237254.68,21,Data engineering,2027 Q1,Needs source update
+EPIC-023,HPA-003,HPA-2962,Compliance review,users want fewer handoffs between analytics and operational queues,In development,3,79140.32,296374.17,16,Design research,2026 Q4,Ready for review
+EPIC-024,HPA-012,HPA-2817,Release criteria,prospects care about time to first validated insight,PRD drafted,13,248816.88,400094.92,11,Design research,2026 Q3,Needs source update
+EPIC-025,HPA-016,HPA-3405,Compliance review,users spend too long interpreting exception and next-action screens,Discovery,13,306900.34,640730.83,24,Marketing enablement,2026 Q4,Ready for review
+EPIC-026,HPA-006,HPA-2434,Metric definition,buyers need tier and usage language that maps to budgets,In development,8,126066.14,498870.44,7,Client implementation,2026 Q4,Approved
+EPIC-027,HPA-003,HPA-3447,Pricing impact,"stakeholders asked for clearer numerator, denominator, and data freshness notes",PRD drafted,8,268964.16,645084.67,9,API contract,2026 Q4,Needs source update
+EPIC-028,HPA-004,HPA-2401,Requirements,"buyers want visible privacy, audit, and access controls before expansion",PRD drafted,5,93510.92,148672.07,15,Design research,2027 Q1,Needs source update
+EPIC-029,HPA-013,HPA-2897,Compliance review,users spend too long interpreting exception and next-action screens,UAT,5,87814.75,135590.19,17,Data engineering,2026 Q4,Ready for review
+EPIC-030,HPA-013,HPA-2675,Release criteria,"buyers want visible privacy, audit, and access controls before expansion",UAT,13,349863.32,1297715.68,17,Marketing enablement,2026 Q4,Approved
+EPIC-031,HPA-008,HPA-3880,Compliance review,"stakeholders asked for clearer numerator, denominator, and data freshness notes",PRD drafted,13,366385.32,2100626.99,21,Design research,2027 Q1,Needs source update
+EPIC-032,HPA-013,HPA-2700,Release criteria,users want fewer handoffs between analytics and operational queues,PRD drafted,21,518596.95,1554015.95,6,Marketing enablement,2027 Q1,Ready for review
+EPIC-033,HPA-001,HPA-3274,Metric definition,"stakeholders asked for clearer numerator, denominator, and data freshness notes",UAT,3,54109.16,122347.34,9,Design research,2026 Q3,Approved
+EPIC-034,HPA-011,HPA-3869,Commercial enablement,marketing needs proof points against point solutions and internal builds,Blocked,21,510499.96,1846228.49,22,Client implementation,2027 Q1,Needs source update
+EPIC-035,HPA-013,HPA-2691,Problem statement,marketing needs proof points against point solutions and internal builds,Ready for grooming,21,443040.57,1198805.48,25,API contract,2026 Q3,Needs source update
+EPIC-036,HPA-007,HPA-2971,Metric definition,users want fewer handoffs between analytics and operational queues,Discovery,8,213787.39,966786.89,24,Marketing enablement,2026 Q4,Needs source update
+EPIC-037,HPA-004,HPA-3479,Pricing impact,marketing needs proof points against point solutions and internal builds,In development,3,64844.45,117782.63,27,Client implementation,2027 Q1,Needs source update
+EPIC-038,HPA-016,HPA-3725,Requirements,buyers need tier and usage language that maps to budgets,UAT,21,686071.86,2241162.72,27,API contract,2026 Q4,Ready for review
+EPIC-039,HPA-013,HPA-3245,Requirements,users spend too long interpreting exception and next-action screens,PRD drafted,5,127294.71,726198.16,16,Data engineering,2027 Q1,Draft
+EPIC-040,HPA-006,HPA-3159,Release criteria,prospects care about time to first validated insight,Discovery,5,146408.04,392946.15,22,API contract,2026 Q4,Approved
+EPIC-041,HPA-013,HPA-3157,Compliance review,users spend too long interpreting exception and next-action screens,UAT,5,115954.62,667702.37,20,Data engineering,2026 Q4,Approved
+EPIC-042,HPA-001,HPA-3332,Problem statement,"stakeholders asked for clearer numerator, denominator, and data freshness notes",Ready for grooming,3,57500.33,238601.82,26,Design research,2027 Q1,Needs source update
+EPIC-043,HPA-015,HPA-2551,Metric definition,"buyers want visible privacy, audit, and access controls before expansion",In development,5,109377.4,443800.75,27,Security review,2026 Q4,Approved
+EPIC-044,HPA-006,HPA-3825,Metric definition,"stakeholders asked for clearer numerator, denominator, and data freshness notes",Blocked,8,174816.49,857082.76,9,Client implementation,2026 Q4,Ready for review
+EPIC-045,HPA-013,HPA-2440,Problem statement,"stakeholders asked for clearer numerator, denominator, and data freshness notes",Blocked,5,86900.77,433994.59,12,Security review,2026 Q3,Ready for review
+EPIC-046,HPA-002,HPA-2968,Metric definition,"buyers want visible privacy, audit, and access controls before expansion",Discovery,8,258532.16,1258591.89,17,API contract,2027 Q1,Approved
+EPIC-047,HPA-009,HPA-3705,Requirements,"stakeholders asked for clearer numerator, denominator, and data freshness notes",UAT,3,86493.18,462269.5,25,Security review,2026 Q3,Approved
+EPIC-048,HPA-001,HPA-3215,Commercial enablement,users want fewer handoffs between analytics and operational queues,Blocked,3,77414.44,180510.07,13,Marketing enablement,2026 Q3,Needs source update
+EPIC-049,HPA-014,HPA-2732,Requirements,buyers need tier and usage language that maps to budgets,Blocked,3,88411.63,318769.67,26,Data engineering,2026 Q3,Draft
+EPIC-050,HPA-016,HPA-2958,Problem statement,marketing needs proof points against point solutions and internal builds,Blocked,3,92601.47,308744.01,19,Marketing enablement,2026 Q4,Draft
+EPIC-051,HPA-005,HPA-2696,Release criteria,users want fewer handoffs between analytics and operational queues,PRD drafted,21,494506.13,1052682.27,22,Client implementation,2026 Q4,Approved
+EPIC-052,HPA-006,HPA-2981,Compliance review,marketing needs proof points against point solutions and internal builds,Ready for grooming,21,628671.36,1946182.59,13,Client implementation,2027 Q1,Draft
+EPIC-053,HPA-010,HPA-2697,Compliance review,users spend too long interpreting exception and next-action screens,PRD drafted,13,334311.46,1767405.33,23,Security review,2026 Q3,Approved
+EPIC-054,HPA-016,HPA-3313,Problem statement,users want fewer handoffs between analytics and operational queues,Discovery,13,441812.98,672594.78,19,Data engineering,2026 Q4,Ready for review
+EPIC-055,HPA-013,HPA-3078,Metric definition,buyers need tier and usage language that maps to budgets,PRD drafted,21,423165.18,2235992.57,27,API contract,2026 Q3,Ready for review
+EPIC-056,HPA-010,HPA-2970,Pricing impact,marketing needs proof points against point solutions and internal builds,Ready for grooming,13,263765.28,1166418.13,13,Marketing enablement,2026 Q4,Draft
+EPIC-057,HPA-007,HPA-3634,Pricing impact,marketing needs proof points against point solutions and internal builds,In development,5,82112.02,451402.93,10,Security review,2026 Q4,Approved
+EPIC-058,HPA-013,HPA-3327,Commercial enablement,users spend too long interpreting exception and next-action screens,In development,21,375089.99,1045549.58,16,Client implementation,2026 Q3,Approved
+EPIC-059,HPA-011,HPA-3785,Pricing impact,prospects care about time to first validated insight,Blocked,5,154169.65,395862.9,13,Client implementation,2027 Q1,Ready for review
+EPIC-060,HPA-001,HPA-3407,Release criteria,"stakeholders asked for clearer numerator, denominator, and data freshness notes",Discovery,21,421790.64,1713325.94,14,Marketing enablement,2026 Q4,Draft
+EPIC-061,HPA-007,HPA-3216,Release criteria,users want fewer handoffs between analytics and operational queues,In development,21,648297.34,3677164.06,20,Client implementation,2026 Q3,Approved
+EPIC-062,HPA-016,HPA-3475,Release criteria,buyers need tier and usage language that maps to budgets,In development,8,154859.69,782977.31,15,Design research,2026 Q4,Needs source update
+EPIC-063,HPA-003,HPA-2964,Pricing impact,"stakeholders asked for clearer numerator, denominator, and data freshness notes",In development,5,141150.4,390730.59,15,Marketing enablement,2027 Q1,Approved
+EPIC-064,HPA-014,HPA-2805,Pricing impact,"stakeholders asked for clearer numerator, denominator, and data freshness notes",PRD drafted,5,144303.75,360351.24,13,Design research,2026 Q3,Needs source update
+EPIC-065,HPA-007,HPA-3161,Pricing impact,"stakeholders asked for clearer numerator, denominator, and data freshness notes",Ready for grooming,8,226307.23,712878.51,17,Marketing enablement,2027 Q1,Ready for review
+EPIC-066,HPA-005,HPA-2865,Problem statement,prospects care about time to first validated insight,UAT,5,160019.99,631277.48,22,Marketing enablement,2026 Q4,Needs source update
+EPIC-067,HPA-011,HPA-3745,Pricing impact,users want fewer handoffs between analytics and operational queues,In development,5,157082.56,908973.7,18,Marketing enablement,2026 Q3,Needs source update
+EPIC-068,HPA-016,HPA-3024,Pricing impact,prospects care about time to first validated insight,PRD drafted,8,129053.96,384382.3,12,Marketing enablement,2026 Q4,Draft
+EPIC-069,HPA-007,HPA-2620,Release criteria,buyers need tier and usage language that maps to budgets,Discovery,13,401513.47,1967716.29,7,API contract,2026 Q3,Needs source update
+EPIC-070,HPA-014,HPA-2401,Metric definition,"buyers want visible privacy, audit, and access controls before expansion",PRD drafted,3,60785.8,210737.57,9,Marketing enablement,2026 Q3,Ready for review
+EPIC-071,HPA-002,HPA-3832,Metric definition,"buyers want visible privacy, audit, and access controls before expansion",Discovery,8,254141.89,1233262.69,16,API contract,2026 Q4,Needs source update
+EPIC-072,HPA-015,HPA-3211,Compliance review,"stakeholders asked for clearer numerator, denominator, and data freshness notes",Ready for grooming,21,698410.59,2491103.45,20,Data engineering,2026 Q4,Ready for review

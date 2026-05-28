@@ -1,8 +1,5 @@
-# Data Sources
+# Data README
 
-Synthetic source-style data for healthcare product profitability, market expansion, and HIPAA-aware product analytics.
+The CSV files in this folder are deterministic synthetic data for a public portfolio artifact. They do not represent real company performance, real clients, real patients, real claims, real contracts, or protected health information.
 
-- `entities.csv`: 36 product opportunity records.
-- `daily_metrics.csv`: 5,040 product opportunity-day metric rows.
-- `source_events.csv`: 760 operational events, QA checks, experiments, and stakeholder asks.
-- `recommended_actions.csv`: 220 candidate actions with effort and expected lift.
+The generator models common healthcare analytics SaaS product structures across payer, provider, pharmacy, life sciences, and platform workflows. Product economics, market signals, research feedback, roadmap records, and controls are shaped to support product profitability, market research, pricing, VOC synthesis, Agile documentation, and HIPAA-aware release readiness analysis.

@@ -1,0 +1,17 @@
+product_id,product_name,release_readiness_score,approved_prd_sections,blocked_jira_items,open_control_findings,total_effort_points,expected_revenue_lift,estimated_launch_cost,backlog_roi,release_recommendation
+HPA-002,Quality and Stars measurement,83,1,0,8,37,5333558.27,1095985.49,4.87,Release candidate
+HPA-004,Value-based contract analytics,77,1,0,7,39,3141578.05,887335.26,3.54,Release candidate
+HPA-007,Medical record review AI,71,2,1,7,87,9781406.29,2477557.27,3.95,Keep in discovery
+HPA-015,Commercial analytics segmentation,71,1,0,8,26,2934904.2,807787.99,3.63,Keep in discovery
+HPA-010,Pharmacy claims reconciliation,70,1,0,11,31,3621844.69,741759.16,4.88,Needs remediation
+HPA-001,Risk adjustment gap closure,59,2,1,10,38,2542335.07,738997.67,3.44,Keep in discovery
+HPA-008,Provider performance benchmarks,56,0,0,15,13,2100626.99,366385.32,5.73,Needs remediation
+HPA-012,Prior authorization analytics,56,0,0,9,18,774416.4,327292.16,2.37,Keep in discovery
+HPA-009,Specialty pharmacy adherence,52,1,0,15,3,462269.5,86493.18,5.34,Needs remediation
+HPA-006,Eligibility verification automation,50,2,1,13,42,3695081.94,1075962.03,3.43,Needs remediation
+HPA-003,Interoperability member 360,49,1,1,9,32,2121587.91,837455.76,2.53,Keep in discovery
+HPA-014,Clinical trial feasibility,49,0,1,12,11,889858.48,293501.18,3.03,Needs remediation
+HPA-016,Healthcare data lineage hub,47,1,1,11,84,6144071.83,2107945.21,2.91,Needs remediation
+HPA-011,Medication therapy management,36,0,2,12,44,3925347.8,1038929.91,3.78,Needs remediation
+HPA-005,Revenue cycle denials intelligence,29,2,1,16,60,3313193.49,1376168.99,2.41,Needs remediation
+HPA-013,Real-world evidence cohorts,24,4,1,21,151,12551160.47,3316198.39,3.78,Needs remediation

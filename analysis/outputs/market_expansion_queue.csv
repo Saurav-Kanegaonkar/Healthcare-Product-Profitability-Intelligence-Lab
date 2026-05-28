@@ -1,0 +1,17 @@
+rank,product_id,product_name,customer_segment,market_size_b,market_cagr,competitor_count,price_position_vs_market,differentiation_score,buyer_urgency_score,sales_cycle_months,market_score,pricing_action
+1,HPA-007,Medical record review AI,Provider,9.98,0.069,3,0.156,69,96,6,125.2,Defend premium with outcome evidence
+2,HPA-006,Eligibility verification automation,Provider,9.99,0.07,6,-0.008,78,88,6,124.6,Raise value proof before price lift
+3,HPA-008,Provider performance benchmarks,Provider,8.4,0.076,5,0.125,76,73,5,106.3,Defend premium with outcome evidence
+4,HPA-014,Clinical trial feasibility,Life sciences,6.43,0.146,5,0.01,86,66,9,103.5,Raise value proof before price lift
+5,HPA-013,Real-world evidence cohorts,Life sciences,6.35,0.123,6,-0.068,87,71,9,97.8,Raise value proof before price lift
+6,HPA-004,Value-based contract analytics,Payer,7.84,0.092,9,0.151,61,96,10,96.3,Defend premium with outcome evidence
+7,HPA-015,Commercial analytics segmentation,Life sciences,5.59,0.129,9,-0.176,92,88,6,96.3,Test packaging and price expansion
+8,HPA-005,Revenue cycle denials intelligence,Provider,6.08,0.103,4,0.056,78,65,5,95.9,Raise value proof before price lift
+9,HPA-001,Risk adjustment gap closure,Payer,6.93,0.108,12,0.158,91,75,7,90.7,Defend premium with outcome evidence
+10,HPA-009,Specialty pharmacy adherence,Pharmacy,3.61,0.105,3,-0.092,86,82,4,90.1,Test packaging and price expansion
+11,HPA-002,Quality and Stars measurement,Payer,5.75,0.114,11,-0.078,60,64,10,70.4,Raise value proof before price lift
+12,HPA-011,Medication therapy management,Pharmacy,2.73,0.095,6,-0.148,86,69,4,69.6,Test packaging and price expansion
+13,HPA-003,Interoperability member 360,Payer,4.45,0.098,6,-0.145,73,61,9,69.3,Test packaging and price expansion
+14,HPA-016,Healthcare data lineage hub,Platform,3.4,0.091,6,-0.165,59,74,6,64.6,Raise value proof before price lift
+15,HPA-012,Prior authorization analytics,Pharmacy,2.88,0.059,7,-0.044,71,77,5,64.3,Raise value proof before price lift
+16,HPA-010,Pharmacy claims reconciliation,Pharmacy,2.34,0.088,7,-0.03,59,68,6,57.1,Raise value proof before price lift

@@ -1,0 +1,151 @@
+feedback_id,product_id,research_type,persona,theme,severity,satisfaction_score,requested_capability,revenue_at_risk,task_completion_minutes,follow_up_owner
+VOC-001,HPA-002,anonymous survey,Quality analytics director,metric trust,Low,8,"stakeholders asked for clearer numerator, denominator, and data freshness notes",113375.52,16,Luis Romero
+VOC-002,HPA-006,anonymous survey,Quality analytics director,metric trust,Low,5,"stakeholders asked for clearer numerator, denominator, and data freshness notes",138572.24,24,Avery Brooks
+VOC-003,HPA-004,prospect interview,VP Product,metric trust,Medium,10,"stakeholders asked for clearer numerator, denominator, and data freshness notes",127495.87,17,Priya Menon
+VOC-004,HPA-006,customer interview,Pharmacy operations director,implementation speed,Medium,5,prospects care about time to first validated insight,51657.25,10,Avery Brooks
+VOC-005,HPA-013,anonymous survey,VP Product,usability friction,Low,8,users spend too long interpreting exception and next-action screens,67642.23,18,Olivia Chen
+VOC-006,HPA-009,usability test,VP Product,workflow integration,Low,6,users want fewer handoffs between analytics and operational queues,63299.98,15,Sofia Martinez
+VOC-007,HPA-015,usability test,VP Product,compliance evidence,High,5,"buyers want visible privacy, audit, and access controls before expansion",356283.15,14,Fatima Ahmed
+VOC-008,HPA-012,win loss review,Data governance owner,implementation speed,Medium,5,prospects care about time to first validated insight,206788.34,30,Kara Nguyen
+VOC-009,HPA-009,usability test,Life sciences analytics lead,implementation speed,Medium,7,prospects care about time to first validated insight,178034.48,8,Sofia Martinez
+VOC-010,HPA-011,anonymous survey,Data governance owner,competitive proof,High,4,marketing needs proof points against point solutions and internal builds,297382.7,24,Ravi Kapoor
+VOC-011,HPA-006,customer interview,Revenue cycle leader,competitive proof,Low,5,marketing needs proof points against point solutions and internal builds,86761.48,11,Avery Brooks
+VOC-012,HPA-010,usability test,VP Product,compliance evidence,Low,8,"buyers want visible privacy, audit, and access controls before expansion",35523.33,12,Mina Shah
+VOC-013,HPA-002,prospect interview,Revenue cycle leader,competitive proof,Medium,7,marketing needs proof points against point solutions and internal builds,85452.18,24,Luis Romero
+VOC-014,HPA-008,customer interview,Quality analytics director,compliance evidence,Low,7,"buyers want visible privacy, audit, and access controls before expansion",124383.74,15,Ethan Clark
+VOC-015,HPA-004,customer interview,Revenue cycle leader,compliance evidence,High,3,"buyers want visible privacy, audit, and access controls before expansion",80621.92,25,Priya Menon
+VOC-016,HPA-016,usability test,Revenue cycle leader,pricing clarity,High,6,buyers need tier and usage language that maps to budgets,293662.23,19,Daniel Kim
+VOC-017,HPA-012,anonymous survey,Implementation manager,compliance evidence,Medium,7,"buyers want visible privacy, audit, and access controls before expansion",45850.32,19,Kara Nguyen
+VOC-018,HPA-007,usability test,Revenue cycle leader,competitive proof,Medium,6,marketing needs proof points against point solutions and internal builds,124540.33,13,Nora Singh
+VOC-019,HPA-015,customer interview,Revenue cycle leader,competitive proof,High,4,marketing needs proof points against point solutions and internal builds,61598.62,17,Fatima Ahmed
+VOC-020,HPA-009,prospect interview,Data governance owner,compliance evidence,High,6,"buyers want visible privacy, audit, and access controls before expansion",192488.84,4,Sofia Martinez
+VOC-021,HPA-009,anonymous survey,Revenue cycle leader,competitive proof,Medium,7,marketing needs proof points against point solutions and internal builds,112269.96,30,Sofia Martinez
+VOC-022,HPA-016,customer interview,Data governance owner,workflow integration,High,3,users want fewer handoffs between analytics and operational queues,356190.35,24,Daniel Kim
+VOC-023,HPA-005,customer interview,Quality analytics director,workflow integration,Low,5,users want fewer handoffs between analytics and operational queues,128312.88,21,Jordan Ellis
+VOC-024,HPA-005,prospect interview,Implementation manager,implementation speed,Medium,6,prospects care about time to first validated insight,56041.33,6,Jordan Ellis
+VOC-025,HPA-002,customer interview,VP Product,compliance evidence,Low,7,"buyers want visible privacy, audit, and access controls before expansion",133802.33,9,Luis Romero
+VOC-026,HPA-007,usability test,Life sciences analytics lead,implementation speed,High,3,prospects care about time to first validated insight,85095.25,18,Nora Singh
+VOC-027,HPA-002,anonymous survey,Data governance owner,metric trust,Low,9,"stakeholders asked for clearer numerator, denominator, and data freshness notes",111987.21,16,Luis Romero
+VOC-028,HPA-001,win loss review,Implementation manager,metric trust,Low,4,"stakeholders asked for clearer numerator, denominator, and data freshness notes",181107.08,18,Maya Patel
+VOC-029,HPA-004,customer interview,Revenue cycle leader,usability friction,Low,7,users spend too long interpreting exception and next-action screens,107075.65,26,Priya Menon
+VOC-030,HPA-016,anonymous survey,VP Product,compliance evidence,Low,5,"buyers want visible privacy, audit, and access controls before expansion",126867.05,31,Daniel Kim
+VOC-031,HPA-001,usability test,Quality analytics director,competitive proof,High,3,marketing needs proof points against point solutions and internal builds,278978.23,20,Maya Patel
+VOC-032,HPA-013,usability test,Revenue cycle leader,implementation speed,High,6,prospects care about time to first validated insight,278784.07,12,Olivia Chen
+VOC-033,HPA-004,prospect interview,Pharmacy operations director,pricing clarity,Low,2,buyers need tier and usage language that maps to budgets,39963.52,11,Priya Menon
+VOC-034,HPA-005,customer interview,Implementation manager,workflow integration,High,8,users want fewer handoffs between analytics and operational queues,195630.89,11,Jordan Ellis
+VOC-035,HPA-015,anonymous survey,Pharmacy operations director,metric trust,Medium,2,"stakeholders asked for clearer numerator, denominator, and data freshness notes",149049.64,15,Fatima Ahmed
+VOC-036,HPA-013,anonymous survey,Pharmacy operations director,compliance evidence,Low,6,"buyers want visible privacy, audit, and access controls before expansion",97458.73,13,Olivia Chen
+VOC-037,HPA-008,customer interview,VP Product,metric trust,High,8,"stakeholders asked for clearer numerator, denominator, and data freshness notes",185868.99,27,Ethan Clark
+VOC-038,HPA-006,customer interview,Data governance owner,usability friction,High,6,users spend too long interpreting exception and next-action screens,56548.71,26,Avery Brooks
+VOC-039,HPA-008,prospect interview,Data governance owner,workflow integration,Medium,6,users want fewer handoffs between analytics and operational queues,141536.1,12,Ethan Clark
+VOC-040,HPA-009,customer interview,VP Product,compliance evidence,Low,6,"buyers want visible privacy, audit, and access controls before expansion",184273.44,6,Sofia Martinez
+VOC-041,HPA-014,anonymous survey,Quality analytics director,usability friction,Medium,9,users spend too long interpreting exception and next-action screens,54767.17,17,Sam Reed
+VOC-042,HPA-001,anonymous survey,Pharmacy operations director,compliance evidence,Medium,8,"buyers want visible privacy, audit, and access controls before expansion",193233.67,27,Maya Patel
+VOC-043,HPA-008,anonymous survey,Revenue cycle leader,implementation speed,Low,5,prospects care about time to first validated insight,67648.77,18,Ethan Clark
+VOC-044,HPA-001,prospect interview,Pharmacy operations director,usability friction,Medium,10,users spend too long interpreting exception and next-action screens,135419.54,25,Maya Patel
+VOC-045,HPA-010,customer interview,VP Product,compliance evidence,Medium,4,"buyers want visible privacy, audit, and access controls before expansion",125864.44,17,Mina Shah
+VOC-046,HPA-014,anonymous survey,Implementation manager,competitive proof,Low,7,marketing needs proof points against point solutions and internal builds,208853.5,13,Sam Reed
+VOC-047,HPA-006,anonymous survey,Pharmacy operations director,implementation speed,Low,4,prospects care about time to first validated insight,117953.61,8,Avery Brooks
+VOC-048,HPA-014,prospect interview,Revenue cycle leader,implementation speed,Medium,9,prospects care about time to first validated insight,31484.06,15,Sam Reed
+VOC-049,HPA-014,usability test,Revenue cycle leader,workflow integration,Medium,8,users want fewer handoffs between analytics and operational queues,101563.55,13,Sam Reed
+VOC-050,HPA-008,customer interview,Quality analytics director,competitive proof,Medium,6,marketing needs proof points against point solutions and internal builds,113558.76,16,Ethan Clark
+VOC-051,HPA-015,anonymous survey,Life sciences analytics lead,workflow integration,Low,6,users want fewer handoffs between analytics and operational queues,85912.57,26,Fatima Ahmed
+VOC-052,HPA-001,customer interview,Quality analytics director,workflow integration,Medium,8,users want fewer handoffs between analytics and operational queues,25761.38,23,Maya Patel
+VOC-053,HPA-001,anonymous survey,Pharmacy operations director,workflow integration,Medium,6,users want fewer handoffs between analytics and operational queues,97205.83,15,Maya Patel
+VOC-054,HPA-014,prospect interview,Life sciences analytics lead,pricing clarity,Medium,5,buyers need tier and usage language that maps to budgets,111450.72,15,Sam Reed
+VOC-055,HPA-013,usability test,Pharmacy operations director,metric trust,Medium,7,"stakeholders asked for clearer numerator, denominator, and data freshness notes",206983.29,22,Olivia Chen
+VOC-056,HPA-006,customer interview,Pharmacy operations director,usability friction,Medium,5,users spend too long interpreting exception and next-action screens,86674.65,16,Avery Brooks
+VOC-057,HPA-004,customer interview,Life sciences analytics lead,compliance evidence,Low,5,"buyers want visible privacy, audit, and access controls before expansion",87172.49,21,Priya Menon
+VOC-058,HPA-014,win loss review,VP Product,pricing clarity,Medium,7,buyers need tier and usage language that maps to budgets,141490.97,18,Sam Reed
+VOC-059,HPA-008,customer interview,Implementation manager,implementation speed,Low,6,prospects care about time to first validated insight,50074.04,21,Ethan Clark
+VOC-060,HPA-001,prospect interview,Quality analytics director,competitive proof,Medium,6,marketing needs proof points against point solutions and internal builds,76414.45,15,Maya Patel
+VOC-061,HPA-004,usability test,Pharmacy operations director,workflow integration,Medium,4,users want fewer handoffs between analytics and operational queues,97498.77,18,Priya Menon
+VOC-062,HPA-008,win loss review,Pharmacy operations director,usability friction,High,3,users spend too long interpreting exception and next-action screens,187833.06,23,Ethan Clark
+VOC-063,HPA-012,anonymous survey,Quality analytics director,usability friction,Medium,7,users spend too long interpreting exception and next-action screens,153352.2,9,Kara Nguyen
+VOC-064,HPA-014,customer interview,Data governance owner,pricing clarity,High,6,buyers need tier and usage language that maps to budgets,355626.98,27,Sam Reed
+VOC-065,HPA-002,win loss review,Quality analytics director,pricing clarity,Low,7,buyers need tier and usage language that maps to budgets,177495.2,23,Luis Romero
+VOC-066,HPA-009,anonymous survey,Quality analytics director,workflow integration,Medium,5,users want fewer handoffs between analytics and operational queues,114713.42,30,Sofia Martinez
+VOC-067,HPA-001,customer interview,Implementation manager,compliance evidence,High,8,"buyers want visible privacy, audit, and access controls before expansion",281787.84,22,Maya Patel
+VOC-068,HPA-013,anonymous survey,Quality analytics director,compliance evidence,High,3,"buyers want visible privacy, audit, and access controls before expansion",41635.16,23,Olivia Chen
+VOC-069,HPA-004,win loss review,VP Product,compliance evidence,Low,5,"buyers want visible privacy, audit, and access controls before expansion",74307.69,25,Priya Menon
+VOC-070,HPA-011,customer interview,Implementation manager,usability friction,Medium,6,users spend too long interpreting exception and next-action screens,78244.73,21,Ravi Kapoor
+VOC-071,HPA-015,prospect interview,Pharmacy operations director,competitive proof,Medium,3,marketing needs proof points against point solutions and internal builds,126010.62,20,Fatima Ahmed
+VOC-072,HPA-002,customer interview,Life sciences analytics lead,workflow integration,Low,4,users want fewer handoffs between analytics and operational queues,193213.8,23,Luis Romero
+VOC-073,HPA-001,anonymous survey,VP Product,usability friction,Medium,3,users spend too long interpreting exception and next-action screens,119587.3,24,Maya Patel
+VOC-074,HPA-011,customer interview,Data governance owner,metric trust,Low,8,"stakeholders asked for clearer numerator, denominator, and data freshness notes",52178.48,10,Ravi Kapoor
+VOC-075,HPA-006,customer interview,Quality analytics director,competitive proof,Medium,4,marketing needs proof points against point solutions and internal builds,178357.83,21,Avery Brooks
+VOC-076,HPA-001,customer interview,Revenue cycle leader,workflow integration,Low,8,users want fewer handoffs between analytics and operational queues,78111.36,19,Maya Patel
+VOC-077,HPA-010,usability test,Implementation manager,competitive proof,Medium,7,marketing needs proof points against point solutions and internal builds,202531.28,11,Mina Shah
+VOC-078,HPA-012,win loss review,Pharmacy operations director,pricing clarity,High,3,buyers need tier and usage language that maps to budgets,205554.85,16,Kara Nguyen
+VOC-079,HPA-004,win loss review,Implementation manager,compliance evidence,Medium,5,"buyers want visible privacy, audit, and access controls before expansion",28300.85,24,Priya Menon
+VOC-080,HPA-014,win loss review,Quality analytics director,usability friction,Low,5,users spend too long interpreting exception and next-action screens,177661.68,32,Sam Reed
+VOC-081,HPA-005,customer interview,VP Product,metric trust,Medium,9,"stakeholders asked for clearer numerator, denominator, and data freshness notes",89300.53,17,Jordan Ellis
+VOC-082,HPA-014,anonymous survey,Pharmacy operations director,competitive proof,Low,9,marketing needs proof points against point solutions and internal builds,68581.75,4,Sam Reed
+VOC-083,HPA-006,customer interview,Implementation manager,compliance evidence,High,6,"buyers want visible privacy, audit, and access controls before expansion",70051.68,23,Avery Brooks
+VOC-084,HPA-004,customer interview,Data governance owner,competitive proof,Medium,8,marketing needs proof points against point solutions and internal builds,71539.05,18,Priya Menon
+VOC-085,HPA-015,usability test,Implementation manager,pricing clarity,Low,8,buyers need tier and usage language that maps to budgets,197403.02,14,Fatima Ahmed
+VOC-086,HPA-005,usability test,Revenue cycle leader,implementation speed,Medium,6,prospects care about time to first validated insight,124405.22,11,Jordan Ellis
+VOC-087,HPA-009,usability test,Implementation manager,competitive proof,High,2,marketing needs proof points against point solutions and internal builds,228473.23,19,Sofia Martinez
+VOC-088,HPA-006,prospect interview,Quality analytics director,compliance evidence,Medium,8,"buyers want visible privacy, audit, and access controls before expansion",150016.38,20,Avery Brooks
+VOC-089,HPA-014,prospect interview,Implementation manager,metric trust,Low,6,"stakeholders asked for clearer numerator, denominator, and data freshness notes",155136.08,21,Sam Reed
+VOC-090,HPA-007,usability test,Revenue cycle leader,pricing clarity,Low,6,buyers need tier and usage language that maps to budgets,18246.27,26,Nora Singh
+VOC-091,HPA-015,usability test,Pharmacy operations director,metric trust,Medium,4,"stakeholders asked for clearer numerator, denominator, and data freshness notes",157040.49,20,Fatima Ahmed
+VOC-092,HPA-010,win loss review,Implementation manager,competitive proof,High,7,marketing needs proof points against point solutions and internal builds,113059.0,18,Mina Shah
+VOC-093,HPA-011,anonymous survey,Life sciences analytics lead,implementation speed,Low,5,prospects care about time to first validated insight,127953.53,16,Ravi Kapoor
+VOC-094,HPA-010,anonymous survey,Implementation manager,usability friction,Low,7,users spend too long interpreting exception and next-action screens,209196.59,22,Mina Shah
+VOC-095,HPA-010,win loss review,VP Product,competitive proof,Low,6,marketing needs proof points against point solutions and internal builds,158972.98,36,Mina Shah
+VOC-096,HPA-015,customer interview,Implementation manager,usability friction,Low,9,users spend too long interpreting exception and next-action screens,180032.18,26,Fatima Ahmed
+VOC-097,HPA-002,customer interview,Data governance owner,workflow integration,Medium,6,users want fewer handoffs between analytics and operational queues,152595.26,14,Luis Romero
+VOC-098,HPA-009,anonymous survey,Revenue cycle leader,workflow integration,Medium,5,users want fewer handoffs between analytics and operational queues,147809.67,23,Sofia Martinez
+VOC-099,HPA-014,customer interview,Life sciences analytics lead,competitive proof,High,5,marketing needs proof points against point solutions and internal builds,35976.87,24,Sam Reed
+VOC-100,HPA-004,prospect interview,VP Product,usability friction,High,3,users spend too long interpreting exception and next-action screens,247163.21,30,Priya Menon
+VOC-101,HPA-014,anonymous survey,Revenue cycle leader,metric trust,Low,6,"stakeholders asked for clearer numerator, denominator, and data freshness notes",87268.64,17,Sam Reed
+VOC-102,HPA-012,usability test,Revenue cycle leader,usability friction,Medium,7,users spend too long interpreting exception and next-action screens,192644.35,21,Kara Nguyen
+VOC-103,HPA-007,anonymous survey,Quality analytics director,pricing clarity,Medium,7,buyers need tier and usage language that maps to budgets,184010.67,14,Nora Singh
+VOC-104,HPA-007,usability test,Life sciences analytics lead,competitive proof,Low,5,marketing needs proof points against point solutions and internal builds,74835.56,15,Nora Singh
+VOC-105,HPA-002,anonymous survey,Revenue cycle leader,metric trust,High,7,"stakeholders asked for clearer numerator, denominator, and data freshness notes",167091.91,23,Luis Romero
+VOC-106,HPA-008,anonymous survey,Data governance owner,usability friction,High,3,users spend too long interpreting exception and next-action screens,246536.61,25,Ethan Clark
+VOC-107,HPA-003,prospect interview,Life sciences analytics lead,pricing clarity,Low,7,buyers need tier and usage language that maps to budgets,75363.77,19,Chen Wu
+VOC-108,HPA-015,anonymous survey,Quality analytics director,implementation speed,High,4,prospects care about time to first validated insight,136898.16,17,Fatima Ahmed
+VOC-109,HPA-011,customer interview,Implementation manager,workflow integration,Medium,8,users want fewer handoffs between analytics and operational queues,98439.64,28,Ravi Kapoor
+VOC-110,HPA-014,customer interview,Life sciences analytics lead,workflow integration,Low,7,users want fewer handoffs between analytics and operational queues,85861.5,21,Sam Reed
+VOC-111,HPA-016,customer interview,Revenue cycle leader,metric trust,Medium,6,"stakeholders asked for clearer numerator, denominator, and data freshness notes",164037.62,19,Daniel Kim
+VOC-112,HPA-011,win loss review,Revenue cycle leader,metric trust,High,4,"stakeholders asked for clearer numerator, denominator, and data freshness notes",194153.63,19,Ravi Kapoor
+VOC-113,HPA-007,win loss review,VP Product,workflow integration,Medium,5,users want fewer handoffs between analytics and operational queues,140633.2,19,Nora Singh
+VOC-114,HPA-011,prospect interview,Implementation manager,workflow integration,Low,6,users want fewer handoffs between analytics and operational queues,127259.88,17,Ravi Kapoor
+VOC-115,HPA-005,anonymous survey,VP Product,competitive proof,Medium,6,marketing needs proof points against point solutions and internal builds,103750.95,8,Jordan Ellis
+VOC-116,HPA-010,prospect interview,Data governance owner,pricing clarity,Medium,7,buyers need tier and usage language that maps to budgets,207494.09,4,Mina Shah
+VOC-117,HPA-007,prospect interview,Life sciences analytics lead,implementation speed,Medium,4,prospects care about time to first validated insight,79112.04,5,Nora Singh
+VOC-118,HPA-011,customer interview,Revenue cycle leader,competitive proof,Medium,8,marketing needs proof points against point solutions and internal builds,31892.92,13,Ravi Kapoor
+VOC-119,HPA-011,win loss review,Implementation manager,metric trust,Medium,5,"stakeholders asked for clearer numerator, denominator, and data freshness notes",95480.85,32,Ravi Kapoor
+VOC-120,HPA-006,prospect interview,VP Product,metric trust,Low,5,"stakeholders asked for clearer numerator, denominator, and data freshness notes",45590.42,15,Avery Brooks
+VOC-121,HPA-013,win loss review,VP Product,metric trust,Medium,5,"stakeholders asked for clearer numerator, denominator, and data freshness notes",178828.75,28,Olivia Chen
+VOC-122,HPA-008,prospect interview,Pharmacy operations director,implementation speed,Medium,7,prospects care about time to first validated insight,204433.97,24,Ethan Clark
+VOC-123,HPA-010,win loss review,Data governance owner,usability friction,Medium,6,users spend too long interpreting exception and next-action screens,92153.24,21,Mina Shah
+VOC-124,HPA-014,customer interview,Pharmacy operations director,workflow integration,Low,8,users want fewer handoffs between analytics and operational queues,113889.05,14,Sam Reed
+VOC-125,HPA-007,prospect interview,VP Product,usability friction,Low,7,users spend too long interpreting exception and next-action screens,172351.24,26,Nora Singh
+VOC-126,HPA-002,anonymous survey,Life sciences analytics lead,usability friction,High,7,users spend too long interpreting exception and next-action screens,316143.66,31,Luis Romero
+VOC-127,HPA-004,usability test,Revenue cycle leader,implementation speed,Low,6,prospects care about time to first validated insight,108046.7,13,Priya Menon
+VOC-128,HPA-004,win loss review,Pharmacy operations director,competitive proof,High,7,marketing needs proof points against point solutions and internal builds,287736.85,26,Priya Menon
+VOC-129,HPA-005,usability test,Implementation manager,workflow integration,Medium,5,users want fewer handoffs between analytics and operational queues,68090.62,17,Jordan Ellis
+VOC-130,HPA-015,win loss review,Life sciences analytics lead,metric trust,Medium,4,"stakeholders asked for clearer numerator, denominator, and data freshness notes",129830.2,24,Fatima Ahmed
+VOC-131,HPA-016,anonymous survey,Data governance owner,compliance evidence,Low,7,"buyers want visible privacy, audit, and access controls before expansion",160970.02,20,Daniel Kim
+VOC-132,HPA-012,customer interview,Quality analytics director,metric trust,High,4,"stakeholders asked for clearer numerator, denominator, and data freshness notes",87430.65,27,Kara Nguyen
+VOC-133,HPA-012,anonymous survey,Data governance owner,workflow integration,Medium,7,users want fewer handoffs between analytics and operational queues,204484.78,24,Kara Nguyen
+VOC-134,HPA-010,prospect interview,Quality analytics director,implementation speed,Medium,9,prospects care about time to first validated insight,130905.39,30,Mina Shah
+VOC-135,HPA-001,prospect interview,Data governance owner,implementation speed,Low,6,prospects care about time to first validated insight,103651.56,9,Maya Patel
+VOC-136,HPA-007,usability test,Life sciences analytics lead,workflow integration,High,6,users want fewer handoffs between analytics and operational queues,231213.46,18,Nora Singh
+VOC-137,HPA-010,anonymous survey,Quality analytics director,pricing clarity,High,5,buyers need tier and usage language that maps to budgets,142109.63,27,Mina Shah
+VOC-138,HPA-011,anonymous survey,VP Product,implementation speed,Medium,5,prospects care about time to first validated insight,22446.07,21,Ravi Kapoor
+VOC-139,HPA-015,anonymous survey,Quality analytics director,implementation speed,Medium,7,prospects care about time to first validated insight,59670.29,8,Fatima Ahmed
+VOC-140,HPA-004,prospect interview,Implementation manager,competitive proof,Low,4,marketing needs proof points against point solutions and internal builds,197261.7,22,Priya Menon
+VOC-141,HPA-007,win loss review,Data governance owner,pricing clarity,Low,5,buyers need tier and usage language that maps to budgets,85156.45,4,Nora Singh
+VOC-142,HPA-015,usability test,Revenue cycle leader,compliance evidence,Medium,8,"buyers want visible privacy, audit, and access controls before expansion",26849.13,11,Fatima Ahmed
+VOC-143,HPA-012,customer interview,Quality analytics director,compliance evidence,High,6,"buyers want visible privacy, audit, and access controls before expansion",318943.15,26,Kara Nguyen
+VOC-144,HPA-003,anonymous survey,VP Product,implementation speed,Medium,8,prospects care about time to first validated insight,144257.08,15,Chen Wu
+VOC-145,HPA-002,customer interview,VP Product,usability friction,Low,6,users spend too long interpreting exception and next-action screens,98749.21,22,Luis Romero
+VOC-146,HPA-002,prospect interview,VP Product,usability friction,Low,9,users spend too long interpreting exception and next-action screens,199296.47,9,Luis Romero
+VOC-147,HPA-011,anonymous survey,Implementation manager,pricing clarity,Low,5,buyers need tier and usage language that maps to budgets,189272.13,17,Ravi Kapoor
+VOC-148,HPA-016,prospect interview,Life sciences analytics lead,implementation speed,Medium,6,prospects care about time to first validated insight,112855.88,13,Daniel Kim
+VOC-149,HPA-014,prospect interview,VP Product,usability friction,Medium,8,users spend too long interpreting exception and next-action screens,67781.0,20,Sam Reed
+VOC-150,HPA-002,anonymous survey,Revenue cycle leader,pricing clarity,Low,8,buyers need tier and usage language that maps to budgets,160545.36,19,Luis Romero

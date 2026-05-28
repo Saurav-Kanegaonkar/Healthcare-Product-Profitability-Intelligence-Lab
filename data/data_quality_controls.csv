@@ -1,0 +1,113 @@
+control_id,product_id,control_name,control_area,status,failure_rate,open_findings,owner,remediation_days,privacy_review_required
+HPA-001-access-audit,HPA-001,Access audit,Privacy and access,Watch,0.051,1,Maya Patel,7,Yes
+HPA-001-minimum-necessary-data,HPA-001,Minimum necessary data,Privacy and access,Remediate,0.004,3,Maya Patel,21,Yes
+HPA-001-metric-lineage,HPA-001,Metric lineage,Data quality,Watch,0.025,1,Maya Patel,7,No
+HPA-001-refresh-sla,HPA-001,Refresh SLA,Data quality,Watch,0.03,1,Maya Patel,7,No
+HPA-001-de-identification-check,HPA-001,De-identification check,Privacy and access,Watch,0.05,2,Maya Patel,20,Yes
+HPA-001-model-output-review,HPA-001,Model output review,Governance,Pass,0,0,Maya Patel,0,No
+HPA-001-client-facing-documentation,HPA-001,Client-facing documentation,Release readiness,Watch,0.01,2,Maya Patel,14,No
+HPA-002-access-audit,HPA-002,Access audit,Privacy and access,Watch,0.054,1,Luis Romero,4,Yes
+HPA-002-minimum-necessary-data,HPA-002,Minimum necessary data,Privacy and access,Watch,0.036,1,Luis Romero,8,Yes
+HPA-002-metric-lineage,HPA-002,Metric lineage,Data quality,Watch,0.005,2,Luis Romero,11,No
+HPA-002-refresh-sla,HPA-002,Refresh SLA,Data quality,Pass,0.019,0,Luis Romero,0,No
+HPA-002-de-identification-check,HPA-002,De-identification check,Privacy and access,Watch,0.02,1,Luis Romero,4,Yes
+HPA-002-model-output-review,HPA-002,Model output review,Governance,Watch,0.07,1,Luis Romero,7,No
+HPA-002-client-facing-documentation,HPA-002,Client-facing documentation,Release readiness,Watch,0.066,2,Luis Romero,20,No
+HPA-003-access-audit,HPA-003,Access audit,Privacy and access,Watch,0.056,2,Chen Wu,19,Yes
+HPA-003-minimum-necessary-data,HPA-003,Minimum necessary data,Privacy and access,Pass,0.042,0,Chen Wu,0,No
+HPA-003-metric-lineage,HPA-003,Metric lineage,Data quality,Watch,0.079,1,Chen Wu,9,No
+HPA-003-refresh-sla,HPA-003,Refresh SLA,Data quality,Watch,0.024,2,Chen Wu,15,No
+HPA-003-de-identification-check,HPA-003,De-identification check,Privacy and access,Watch,0.032,2,Chen Wu,19,Yes
+HPA-003-model-output-review,HPA-003,Model output review,Governance,Watch,0.055,2,Chen Wu,21,No
+HPA-003-client-facing-documentation,HPA-003,Client-facing documentation,Release readiness,Pass,0,0,Chen Wu,0,No
+HPA-004-access-audit,HPA-004,Access audit,Privacy and access,Pass,0.041,0,Priya Menon,0,No
+HPA-004-minimum-necessary-data,HPA-004,Minimum necessary data,Privacy and access,Watch,0.048,1,Priya Menon,5,Yes
+HPA-004-metric-lineage,HPA-004,Metric lineage,Data quality,Watch,0.081,1,Priya Menon,7,No
+HPA-004-refresh-sla,HPA-004,Refresh SLA,Data quality,Watch,0.035,1,Priya Menon,10,No
+HPA-004-de-identification-check,HPA-004,De-identification check,Privacy and access,Pass,0.01,0,Priya Menon,0,No
+HPA-004-model-output-review,HPA-004,Model output review,Governance,Remediate,0.078,3,Priya Menon,9,No
+HPA-004-client-facing-documentation,HPA-004,Client-facing documentation,Release readiness,Watch,0.019,1,Priya Menon,10,No
+HPA-005-access-audit,HPA-005,Access audit,Privacy and access,Pass,0.01,0,Jordan Ellis,0,No
+HPA-005-minimum-necessary-data,HPA-005,Minimum necessary data,Privacy and access,Remediate,0.069,4,Jordan Ellis,13,Yes
+HPA-005-metric-lineage,HPA-005,Metric lineage,Data quality,Remediate,0.038,3,Jordan Ellis,27,No
+HPA-005-refresh-sla,HPA-005,Refresh SLA,Data quality,Remediate,0.084,3,Jordan Ellis,27,No
+HPA-005-de-identification-check,HPA-005,De-identification check,Privacy and access,Watch,0.045,2,Jordan Ellis,18,Yes
+HPA-005-model-output-review,HPA-005,Model output review,Governance,Pass,0.017,0,Jordan Ellis,0,No
+HPA-005-client-facing-documentation,HPA-005,Client-facing documentation,Release readiness,Remediate,0,4,Jordan Ellis,17,No
+HPA-006-access-audit,HPA-006,Access audit,Privacy and access,Watch,0.005,1,Avery Brooks,4,Yes
+HPA-006-minimum-necessary-data,HPA-006,Minimum necessary data,Privacy and access,Remediate,0.032,3,Avery Brooks,25,Yes
+HPA-006-metric-lineage,HPA-006,Metric lineage,Data quality,Watch,0.056,2,Avery Brooks,21,No
+HPA-006-refresh-sla,HPA-006,Refresh SLA,Data quality,Watch,0.009,2,Avery Brooks,8,No
+HPA-006-de-identification-check,HPA-006,De-identification check,Privacy and access,Watch,0.005,1,Avery Brooks,9,Yes
+HPA-006-model-output-review,HPA-006,Model output review,Governance,Remediate,0.033,3,Avery Brooks,28,No
+HPA-006-client-facing-documentation,HPA-006,Client-facing documentation,Release readiness,Watch,0.091,1,Avery Brooks,10,No
+HPA-007-access-audit,HPA-007,Access audit,Privacy and access,Pass,0.032,0,Nora Singh,0,No
+HPA-007-minimum-necessary-data,HPA-007,Minimum necessary data,Privacy and access,Remediate,0.063,3,Nora Singh,10,Yes
+HPA-007-metric-lineage,HPA-007,Metric lineage,Data quality,Watch,0.026,1,Nora Singh,7,No
+HPA-007-refresh-sla,HPA-007,Refresh SLA,Data quality,Pass,0.052,0,Nora Singh,0,No
+HPA-007-de-identification-check,HPA-007,De-identification check,Privacy and access,Remediate,0.066,3,Nora Singh,20,Yes
+HPA-007-model-output-review,HPA-007,Model output review,Governance,Pass,0.086,0,Nora Singh,0,No
+HPA-007-client-facing-documentation,HPA-007,Client-facing documentation,Release readiness,Pass,0.014,0,Nora Singh,0,No
+HPA-008-access-audit,HPA-008,Access audit,Privacy and access,Pass,0.055,0,Ethan Clark,0,No
+HPA-008-minimum-necessary-data,HPA-008,Minimum necessary data,Privacy and access,Remediate,0.072,4,Ethan Clark,18,Yes
+HPA-008-metric-lineage,HPA-008,Metric lineage,Data quality,Remediate,0.083,4,Ethan Clark,15,No
+HPA-008-refresh-sla,HPA-008,Refresh SLA,Data quality,Watch,0.041,2,Ethan Clark,19,No
+HPA-008-de-identification-check,HPA-008,De-identification check,Privacy and access,Remediate,0.055,4,Ethan Clark,15,Yes
+HPA-008-model-output-review,HPA-008,Model output review,Governance,Watch,0.035,1,Ethan Clark,7,No
+HPA-008-client-facing-documentation,HPA-008,Client-facing documentation,Release readiness,Pass,0.045,0,Ethan Clark,0,No
+HPA-009-access-audit,HPA-009,Access audit,Privacy and access,Remediate,0.076,6,Sofia Martinez,55,Yes
+HPA-009-minimum-necessary-data,HPA-009,Minimum necessary data,Privacy and access,Watch,0.053,1,Sofia Martinez,8,Yes
+HPA-009-metric-lineage,HPA-009,Metric lineage,Data quality,Watch,0.062,2,Sofia Martinez,12,No
+HPA-009-refresh-sla,HPA-009,Refresh SLA,Data quality,Watch,0.023,2,Sofia Martinez,11,No
+HPA-009-de-identification-check,HPA-009,De-identification check,Privacy and access,Watch,0.07,2,Sofia Martinez,7,Yes
+HPA-009-model-output-review,HPA-009,Model output review,Governance,Watch,0.058,1,Sofia Martinez,5,No
+HPA-009-client-facing-documentation,HPA-009,Client-facing documentation,Release readiness,Watch,0.017,1,Sofia Martinez,4,No
+HPA-010-access-audit,HPA-010,Access audit,Privacy and access,Watch,0.061,1,Mina Shah,10,Yes
+HPA-010-minimum-necessary-data,HPA-010,Minimum necessary data,Privacy and access,Watch,0.015,2,Mina Shah,10,Yes
+HPA-010-metric-lineage,HPA-010,Metric lineage,Data quality,Watch,0.011,2,Mina Shah,9,No
+HPA-010-refresh-sla,HPA-010,Refresh SLA,Data quality,Watch,0.031,2,Mina Shah,7,No
+HPA-010-de-identification-check,HPA-010,De-identification check,Privacy and access,Pass,0.071,0,Mina Shah,0,No
+HPA-010-model-output-review,HPA-010,Model output review,Governance,Pass,0,0,Mina Shah,0,No
+HPA-010-client-facing-documentation,HPA-010,Client-facing documentation,Release readiness,Remediate,0.001,4,Mina Shah,37,No
+HPA-011-access-audit,HPA-011,Access audit,Privacy and access,Remediate,0.052,3,Ravi Kapoor,9,Yes
+HPA-011-minimum-necessary-data,HPA-011,Minimum necessary data,Privacy and access,Watch,0.006,1,Ravi Kapoor,7,Yes
+HPA-011-metric-lineage,HPA-011,Metric lineage,Data quality,Watch,0.041,2,Ravi Kapoor,18,No
+HPA-011-refresh-sla,HPA-011,Refresh SLA,Data quality,Watch,0.041,1,Ravi Kapoor,3,No
+HPA-011-de-identification-check,HPA-011,De-identification check,Privacy and access,Remediate,0,3,Ravi Kapoor,25,Yes
+HPA-011-model-output-review,HPA-011,Model output review,Governance,Pass,0.017,0,Ravi Kapoor,0,No
+HPA-011-client-facing-documentation,HPA-011,Client-facing documentation,Release readiness,Watch,0.036,2,Ravi Kapoor,8,No
+HPA-012-access-audit,HPA-012,Access audit,Privacy and access,Remediate,0.025,3,Kara Nguyen,17,Yes
+HPA-012-minimum-necessary-data,HPA-012,Minimum necessary data,Privacy and access,Pass,0.017,0,Kara Nguyen,0,No
+HPA-012-metric-lineage,HPA-012,Metric lineage,Data quality,Watch,0.015,2,Kara Nguyen,11,No
+HPA-012-refresh-sla,HPA-012,Refresh SLA,Data quality,Watch,0.002,1,Kara Nguyen,8,No
+HPA-012-de-identification-check,HPA-012,De-identification check,Privacy and access,Watch,0,2,Kara Nguyen,7,Yes
+HPA-012-model-output-review,HPA-012,Model output review,Governance,Pass,0.002,0,Kara Nguyen,0,No
+HPA-012-client-facing-documentation,HPA-012,Client-facing documentation,Release readiness,Watch,0.039,1,Kara Nguyen,5,No
+HPA-013-access-audit,HPA-013,Access audit,Privacy and access,Watch,0,2,Olivia Chen,19,Yes
+HPA-013-minimum-necessary-data,HPA-013,Minimum necessary data,Privacy and access,Remediate,0.058,3,Olivia Chen,28,Yes
+HPA-013-metric-lineage,HPA-013,Metric lineage,Data quality,Remediate,0.068,3,Olivia Chen,22,No
+HPA-013-refresh-sla,HPA-013,Refresh SLA,Data quality,Remediate,0.053,4,Olivia Chen,26,No
+HPA-013-de-identification-check,HPA-013,De-identification check,Privacy and access,Watch,0.058,1,Olivia Chen,10,Yes
+HPA-013-model-output-review,HPA-013,Model output review,Governance,Remediate,0.091,4,Olivia Chen,15,No
+HPA-013-client-facing-documentation,HPA-013,Client-facing documentation,Release readiness,Remediate,0.026,4,Olivia Chen,12,No
+HPA-014-access-audit,HPA-014,Access audit,Privacy and access,Watch,0.045,2,Sam Reed,16,Yes
+HPA-014-minimum-necessary-data,HPA-014,Minimum necessary data,Privacy and access,Pass,0,0,Sam Reed,0,No
+HPA-014-metric-lineage,HPA-014,Metric lineage,Data quality,Watch,0.027,1,Sam Reed,7,No
+HPA-014-refresh-sla,HPA-014,Refresh SLA,Data quality,Watch,0.027,2,Sam Reed,17,No
+HPA-014-de-identification-check,HPA-014,De-identification check,Privacy and access,Remediate,0.053,3,Sam Reed,28,Yes
+HPA-014-model-output-review,HPA-014,Model output review,Governance,Remediate,0.021,3,Sam Reed,31,No
+HPA-014-client-facing-documentation,HPA-014,Client-facing documentation,Release readiness,Watch,0.047,1,Sam Reed,6,No
+HPA-015-access-audit,HPA-015,Access audit,Privacy and access,Watch,0.041,1,Fatima Ahmed,7,Yes
+HPA-015-minimum-necessary-data,HPA-015,Minimum necessary data,Privacy and access,Watch,0.051,1,Fatima Ahmed,3,Yes
+HPA-015-metric-lineage,HPA-015,Metric lineage,Data quality,Remediate,0.048,3,Fatima Ahmed,10,No
+HPA-015-refresh-sla,HPA-015,Refresh SLA,Data quality,Remediate,0.027,3,Fatima Ahmed,11,No
+HPA-015-de-identification-check,HPA-015,De-identification check,Privacy and access,Pass,0.008,0,Fatima Ahmed,0,No
+HPA-015-model-output-review,HPA-015,Model output review,Governance,Pass,0.028,0,Fatima Ahmed,0,No
+HPA-015-client-facing-documentation,HPA-015,Client-facing documentation,Release readiness,Pass,0.012,0,Fatima Ahmed,0,No
+HPA-016-access-audit,HPA-016,Access audit,Privacy and access,Pass,0.005,0,Daniel Kim,0,No
+HPA-016-minimum-necessary-data,HPA-016,Minimum necessary data,Privacy and access,Watch,0.083,1,Daniel Kim,7,Yes
+HPA-016-metric-lineage,HPA-016,Metric lineage,Data quality,Watch,0.078,1,Daniel Kim,10,No
+HPA-016-refresh-sla,HPA-016,Refresh SLA,Data quality,Remediate,0.042,3,Daniel Kim,14,No
+HPA-016-de-identification-check,HPA-016,De-identification check,Privacy and access,Remediate,0.038,4,Daniel Kim,15,Yes
+HPA-016-model-output-review,HPA-016,Model output review,Governance,Watch,0.021,1,Daniel Kim,7,No
+HPA-016-client-facing-documentation,HPA-016,Client-facing documentation,Release readiness,Watch,0.023,1,Daniel Kim,4,No

@@ -1,0 +1,17 @@
+product_id,product_name,customer_segment,workflow,stage,owner,regulated_data_type,baseline_clients,current_arr,annual_operating_cost,gross_margin_rate,win_rate,nps,retention_rate,target_persona
+HPA-001,Risk adjustment gap closure,Payer,Risk score accuracy,Scale,Maya Patel,Claims and clinical,35,19667931.07,1437691.34,0.72,0.359,61,0.945,Quality analytics director
+HPA-002,Quality and Stars measurement,Payer,Quality improvement,Scale,Luis Romero,Clinical and member,44,20887636.87,1569899.45,0.612,0.394,68,0.96,Revenue cycle leader
+HPA-003,Interoperability member 360,Payer,Longitudinal member view,Expand,Chen Wu,Clinical and claims,20,9490027.7,706228.52,0.539,0.324,50,0.884,Pharmacy operations director
+HPA-004,Value-based contract analytics,Payer,Provider contract performance,Pilot,Priya Menon,Claims and contract,11,4642291.53,394699.63,0.481,0.242,72,0.911,Life sciences analytics lead
+HPA-005,Revenue cycle denials intelligence,Provider,Claims denial reduction,Scale,Jordan Ellis,Claims and remit,38,32155632.63,1531472.76,0.603,0.345,69,0.893,Data governance owner
+HPA-006,Eligibility verification automation,Provider,Front-end revenue cycle,Scale,Avery Brooks,Eligibility,48,33041954.17,1703254.83,0.737,0.431,56,0.96,Implementation manager
+HPA-007,Medical record review AI,Provider,Chart retrieval and abstraction,Pilot,Nora Singh,Clinical records,8,5281379.08,446520.42,0.496,0.208,50,0.947,VP Product
+HPA-008,Provider performance benchmarks,Provider,Operational benchmarking,Expand,Ethan Clark,Claims and operations,19,12183585.82,958577.46,0.646,0.328,50,0.96,Quality analytics director
+HPA-009,Specialty pharmacy adherence,Pharmacy,Medication adherence,Scale,Sofia Martinez,Prescription and dispense,46,10517183.44,1810498.3,0.609,0.439,69,0.906,Revenue cycle leader
+HPA-010,Pharmacy claims reconciliation,Pharmacy,Claims adjudication,Expand,Mina Shah,Pharmacy claims,18,5393467.47,966882.19,0.648,0.35,70,0.931,Pharmacy operations director
+HPA-011,Medication therapy management,Pharmacy,Patient intervention workflow,Pilot,Ravi Kapoor,Medication profile,10,2623736.07,416065.45,0.579,0.198,58,0.918,Life sciences analytics lead
+HPA-012,Prior authorization analytics,Pharmacy,Access and approval workflow,Discover,Kara Nguyen,Authorization,3,1052268.83,197370.88,0.465,0.253,55,0.909,Data governance owner
+HPA-013,Real-world evidence cohorts,Life sciences,RWE patient cohorts,Scale,Olivia Chen,De-identified claims,44,18040557.33,1784855.26,0.711,0.313,78,0.926,Implementation manager
+HPA-014,Clinical trial feasibility,Life sciences,Site and patient discovery,Expand,Sam Reed,De-identified clinical,25,8709308.47,769912.17,0.68,0.315,72,0.949,VP Product
+HPA-015,Commercial analytics segmentation,Life sciences,Market access targeting,Pilot,Fatima Ahmed,Claims and SDOH,9,3896777.19,348076.34,0.476,0.248,66,0.893,Quality analytics director
+HPA-016,Healthcare data lineage hub,Platform,Data quality and lineage,Expand,Daniel Kim,Metadata and controls,17,3780775.08,781875.22,0.623,0.3,74,0.922,Revenue cycle leader

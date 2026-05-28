@@ -6,49 +6,119 @@
   <title>Healthcare Product Profitability Intelligence Lab</title>
   <link rel="stylesheet" href="src/styles.css">
 </head>
-<body style="--accent:#a16207;--bg:#fff7ed">
+<body>
   <main class="shell">
-    <header class="hero">
+    <header class="topbar">
       <div>
-        <p class="eyebrow">Decision Brief / healthcare product profitability, market expansion, and HIPAA-aware product analytics</p>
-        <h1>Healthcare Product Profitability Intelligence Lab</h1>
+        <p class="eyebrow">Healthcare analytics SaaS product analysis</p>
+        <h1>Product Profitability Intelligence Lab</h1>
       </div>
-      <aside>
-        <b>Purpose</b>
-        <span>Turn messy product opportunity-level signals into a ranked operating artifact with recommendations a stakeholder can act on.</span>
-      </aside>
+      <div class="status-strip" aria-label="Portfolio status">
+        <span id="latest-month">Loading</span>
+        <strong id="portfolio-arr">$0</strong>
+        <small>modeled ARR</small>
+      </div>
     </header>
-    <section class="metrics">
-      <article><span>Modeled rows</span><strong>6.0K+</strong><em>source-style</em></article>
-      <article><span>Ranked queue</span><strong>25</strong><em>product opportunitys</em></article>
-      <article><span>Action pool</span><strong>220</strong><em>candidates</em></article>
-      <article><span>Review time</span><strong>-6 hrs</strong><em>weekly</em></article>
-    </section>
-    <section class="main-grid">
-      <article class="panel lead">
-        <p class="eyebrow">Decision context</p>
-        <h2>Priority queue</h2>
-        <table>
-          <thead><tr><th>product opportunity</th><th>Signal</th><th>Risk</th><th>Next move</th></tr></thead>
-          <tbody>
-            <tr><td>Segment A</td><td>Forecast risk</td><td>High</td><td>Escalate with source check</td></tr>
-            <tr><td>Segment B</td><td>Recommended action</td><td>Medium</td><td>Test with clear owner</td></tr>
-            <tr><td>Segment C</td><td>Quality gap</td><td>Watch</td><td>Document metric definition</td></tr>
-          </tbody>
-        </table>
+
+    <nav class="tabs" aria-label="Workbench views">
+      <button class="active" type="button" data-view="profitability">Profitability</button>
+      <button type="button" data-view="market">Market</button>
+      <button type="button" data-view="research">Research</button>
+      <button type="button" data-view="launch">Launch</button>
+    </nav>
+
+    <section class="kpis" aria-label="Portfolio metrics">
+      <article>
+        <span>Annualized profit</span>
+        <strong id="annual-profit">$0</strong>
+        <em id="product-count">0 modules</em>
       </article>
-      <article class="panel narrative">
-        <p class="eyebrow">What the analysis says</p>
-        <h2>Recommendations over screenshots</h2>
-        <p>The artifact is built around decisions, not dashboard decoration: each source table feeds a ranked queue, and each queue item resolves into a recommendation.</p>
-        <p>The strongest opportunities appear where performance upside, measurement quality, and operating readiness overlap.</p>
+      <article>
+        <span>Invest lanes</span>
+        <strong id="invest-count">0</strong>
+        <em>expansion candidates</em>
+      </article>
+      <article>
+        <span>Avg readiness</span>
+        <strong id="avg-readiness">0</strong>
+        <em>release score</em>
+      </article>
+      <article>
+        <span>Research risk</span>
+        <strong id="high-voc">0</strong>
+        <em>high severity items</em>
       </article>
     </section>
-    <section class="recommendations">
-      <article><b>01</b><h3>Validate</h3><p>Confirm source definitions before scaling the insight into recurring reporting.</p></article>
-      <article><b>02</b><h3>Prioritize</h3><p>Move the highest-value product opportunity segment into the next operating review.</p></article>
-      <article><b>03</b><h3>Automate</h3><p>Convert the queue into a stakeholder-ready digest for repeated decisions.</p></article>
+
+    <section class="view active" id="profitabilityView" aria-label="Product profitability command center">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Decision queue</p>
+          <h2>Product profitability command center</h2>
+        </div>
+        <p>Ranks product modules by contribution profit, sales pipeline, backlog ROI, readiness, churn risk, and customer revenue at risk.</p>
+      </div>
+      <div class="queue-layout">
+        <section class="table-panel">
+          <table>
+            <thead>
+              <tr>
+                <th>Rank</th>
+                <th>Product module</th>
+                <th>Segment</th>
+                <th>Profit</th>
+                <th>Score</th>
+                <th>Lane</th>
+              </tr>
+            </thead>
+            <tbody id="profitabilityRows"></tbody>
+          </table>
+        </section>
+        <aside class="decision-panel" id="profitabilityDetail"></aside>
+      </div>
+    </section>
+
+    <section class="view" id="marketView" aria-label="Market and pricing strategy">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">Market research</p>
+          <h2>Market and pricing strategy</h2>
+        </div>
+        <p>Compares market size, growth, competitor density, buyer urgency, differentiation, price position, and pricing action.</p>
+      </div>
+      <div class="market-grid" id="marketCards"></div>
+    </section>
+
+    <section class="view" id="researchView" aria-label="Voice of customer synthesis">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">VOC synthesis</p>
+          <h2>Research themes and usability friction</h2>
+        </div>
+        <p>Summarizes interviews, prospect feedback, surveys, usability tests, and win loss reviews into product recommendations.</p>
+      </div>
+      <div class="theme-board" id="themeBoard"></div>
+    </section>
+
+    <section class="view" id="launchView" aria-label="Roadmap launch readiness">
+      <div class="section-heading">
+        <div>
+          <p class="eyebrow">PRD and release packet</p>
+          <h2>Roadmap launch readiness</h2>
+        </div>
+        <p>Combines Jira-style blockers, PRD approval, effort, launch cost, revenue lift, ROI, and open control findings.</p>
+      </div>
+      <div class="launch-layout">
+        <div class="readiness-list" id="launchList"></div>
+        <aside class="control-summary">
+          <span>Open control findings</span>
+          <strong id="control-findings">0</strong>
+          <p>Privacy, access, lineage, refresh, governance, and release controls are treated as product launch criteria.</p>
+        </aside>
+      </div>
     </section>
   </main>
+
+  <script type="module" src="src/app.js"></script>
 </body>
 </html>
